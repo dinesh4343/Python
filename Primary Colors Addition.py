@@ -1,5 +1,5 @@
-"""P
-rimary Colors Addition 
+"""
+Primary Colors Addition 
 
 The program must accept a character matrix of size R*C representing the primary colors (R, G, B) as the input. The value of C is always even. The program must fold the given color matrix vertically and print the resulting colours based on the following conditions
 
